@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: forestgreen;
 }
 
 h1 {
@@ -74,7 +74,7 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: forestgreen;
 }
 
 nav {
@@ -106,7 +106,7 @@ footer {
   color: #ccc;
   text-align: center;
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid forestgreen;
   height: 50px;
 }
 
@@ -164,7 +164,7 @@ h3, h2 {
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: forestgreen;
   border-bottom: 0;
 }
 
@@ -175,6 +175,7 @@ h3, h2 {
   margin-top: 10px;
   margin-right: 25px;
 }
+
 
 /* contact page */
 
@@ -212,7 +213,7 @@ input[type=submit] {
   font-size: 18px;
   color: #fff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: forestgreen;
   border: 0 none;
 }
 
